@@ -1,0 +1,63 @@
+date,amount,category,description
+01-07-2024,1000.0,Income,Salary
+02-07-2024,50.0,Expense,Groceries
+03-07-2024,150.0,Expense,Utilities
+04-07-2024,200.0,Income,Freelance Work
+05-07-2024,75.0,Expense,Restaurant
+06-07-2024,100.0,Expense,Transport
+07-07-2024,500.0,Income,Bonus
+08-07-2024,30.0,Expense,Snacks
+09-07-2024,250.0,Income,Stock Dividends
+10-07-2024,90.0,Expense,Entertainment
+11-07-2024,60.0,Expense,Coffee
+12-07-2024,120.0,Expense,Gas
+13-07-2024,80.0,Expense,Books
+14-07-2024,150.0,Expense,Clothing
+15-07-2024,1100.0,Income,Salary
+16-07-2024,40.0,Expense,Stationery
+17-07-2024,180.0,Expense,Utilities
+18-07-2024,250.0,Income,Freelance Work
+19-07-2024,70.0,Expense,Restaurant
+20-07-2024,130.0,Expense,Transport
+21-07-2024,600.0,Income,Bonus
+22-07-2024,35.0,Expense,Snacks
+23-07-2024,300.0,Income,Stock Dividends
+24-07-2024,100.0,Expense,Entertainment
+25-07-2024,55.0,Expense,Coffee
+26-07-2024,140.0,Expense,Gas
+27-07-2024,90.0,Expense,Books
+28-07-2024,170.0,Expense,Clothing
+29-07-2024,1200.0,Income,Salary
+30-07-2024,45.0,Expense,Stationery
+31-07-2024,190.0,Expense,Utilities
+20-07-2023,124.0,Expense,Groceries
+20-05-2023,120.0,Income,asdf
+15-04-2015,900.0,Income,asf
+26-05-2024,1500.0,Expense,bday
+25-05-2024,120.0,Expense,groceries
+24-05-2024,3000.0,Income,salary
+22-05-2024,2500.0,Expense,monthly rent
+20-05-2024,300.0,Expense,fuel refill
+18-05-2024,950.0,Expense,shopping
+15-05-2024,1500.0,Income,freelance project
+13-05-2024,450.0,Expense,electricity bill
+10-05-2024,110.0,Expense,supermarket
+08-05-2024,200.0,Income,bonus
+05-05-2024,300.0,Expense,transport
+01-05-2024,2500.0,Expense,rent
+28-04-2024,90.0,Expense,vegetables
+25-04-2024,600.0,Expense,weekend trip
+20-04-2024,100.0,Expense,lunch
+18-04-2024,3000.0,Income,salary
+15-04-2024,130.0,Expense,medical
+10-04-2024,250.0,Expense,books
+05-04-2024,125.0,Expense,clothing
+01-04-2024,2500.0,Expense,rent
+28-03-2024,60.0,Expense,snacks
+25-03-2024,800.0,Expense,gym membership
+22-03-2024,2800.0,Income,salary
+20-03-2024,100.0,Expense,transport
+15-03-2024,140.0,Expense,breakfast
+10-03-2024,220.0,Expense,groceries
+05-03-2024,500.0,Expense,subscription
+01-03-2024,2500.0,Expense,rent
